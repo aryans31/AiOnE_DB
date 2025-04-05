@@ -97,5 +97,14 @@
       "phone":"9988776655",
       "address":"#305, kundalahalli, brookefield-76",
       "blood":"AB+"
+   },
+    {
+      "id":"2021hs70016",
+      "name":"Aryan Saxena",
+      "img":"https://github.com/dpar39/ppp/blob/master/libppp/test/data/TestCroppingWorks_croppedPhoto.png",
+      "email":"aryan.saxena3105@gmail.com",
+      "phone":"8448223790",
+      "address":"#305, kundalahalli, brookefield-76",
+      "blood":"AB+"
    }
 ]
